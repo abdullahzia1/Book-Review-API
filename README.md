@@ -25,11 +25,6 @@ Review Books: Logged-in users can add, update, or delete their reviews for a spe
 
 This is a basic implementation and may require further development for features like user profile management, password encryption, and secure data storage.
 
-
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
 ## Installation
 
 Use the node package manager to install dependencies.
